@@ -1,4 +1,4 @@
-# php-collabim-api-client
+# pycollabim
 Collabim API Client in Python
 
 # Install
